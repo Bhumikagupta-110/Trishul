@@ -3,11 +3,11 @@
  an application for the hostellers of IGDTUW which helps them, the admins of the college, as well as their parents to track the in-time and the out-time and also tracks the location of the students.
 
 # Problems and Solutions
-## TRACKING THE LOCATION OF THE STUDENT
+## Tracking the location of the students
 This app will enable the student to share their live location with their wardens and their parents
-## KNOWING THE IN-TIME AND THE OUT-TIME OF THE STUDENT
+## Knowing the in-time an the out-time of the students
 This app will also help notifying the student of their upcoming in-time by which they have to reach their hostels
-## KEEPING TRACK OF OUTPASSES ISSUED TO STUDENTS
+## Keeping track of out-passes issued to student
 This app can also keep record of the out-passes and the holidays taken by the student that were issued by the wardens
 
 # Features

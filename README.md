@@ -4,11 +4,11 @@
 
 # Problems and Solutions
 ## Tracking the location of the students
-This app will enable the student to share their live location with their wardens and their parents
+This app will enable the student to share their live location with their wardens and their parents.
 ## Knowing the in-time an the out-time of the students
-This app will also help notifying the student of their upcoming in-time by which they have to reach their hostels
+This app will also help notifying the student of their upcoming in-time by which they have to reach their hostels.
 ## Keeping track of out-passes issued to student
-This app can also keep record of the out-passes and the holidays taken by the student that were issued by the wardens
+This app can also keep record of the out-passes and the holidays taken by the student that were issued by the wardens.
 
 # Features
 ## Direct Communication Channel 
